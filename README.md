@@ -1,1 +1,1 @@
-# CollectTreasure2
+# Project43-treasure-collecting
